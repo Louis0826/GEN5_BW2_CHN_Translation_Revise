@@ -39,7 +39,7 @@
 潜入连接
 传递之力
 传递宝珠
-背包
+包包
 训练师卡片
 宝可梦图鉴
 收服宝可梦的要领
@@ -111,8 +111,8 @@
 进入房间后\xfffe请在想要进行通信的\xfffe朋友前面按A键。\xfffe已经确定要通信而在等待的朋友\xfffe会一蹦一蹦地跳。\xfffe\xfffe确定要进行通信时，\xfffe请对着里面的显示器\xfffe按Ａ键。
 使用语音聊天的话\xfffe便可向电话那样\xfffe于远处的朋友进行语音交谈。\xfffe\xfffe可以事先决定\xfffe在房间中按Ｘ键后\xfffe是否进行语音聊天。
 通过全球接入点\xfffe可以与远处素不相识的人\xfffe进行通信交换和通信对战。\xfffe\xfffe请于宝可梦中心２楼右侧\xfffe办理相关业务。
-第一次进行Ｗｉ－Ｆｉ连接时，\xfffe将会给您发送的\xfffe您的个人编号。\xfffe互相告诉朋友号码，将能够\xfffe与远处的朋友进行对战和交换。\xfffe\xfffe自己的朋友号码\xfffe可以在背包内的重要物品分类中\xfffe＂朋友手册＂上进行确认。
-登录朋友号码的方法\xfffe有以下两种。\xfffe\xfffe・在背包内重要物品分类中\xfffe　“朋友手册”上选择“使用”，\xfffe　录入从朋友那里得到的\xfffe　朋友号码。\xfffe・使用Ｃ－ＧＥＡＲ的ＩＲ通信。
+第一次进行Ｗｉ－Ｆｉ连接时，\xfffe将会给您发送的\xfffe您的个人编号。\xfffe互相告诉朋友号码，将能够\xfffe与远处的朋友进行对战和交换。\xfffe\xfffe自己的朋友号码\xfffe可以在包包内的重要物品分类中\xfffe＂朋友手册＂上进行确认。
+登录朋友号码的方法\xfffe有以下两种。\xfffe\xfffe・在包包内重要物品分类中\xfffe　“朋友手册”上选择“使用”，\xfffe　录入从朋友那里得到的\xfffe　朋友号码。\xfffe・使用Ｃ－ＧＥＡＲ的ＩＲ通信。
 Ｃ－ＧＥＡＲ是与附近的人\xfffe进行通信交换和对战，\xfffe或者在使用潜入连接、\xfffe实况接收机、游戏同步器时用到的\xfffe拥有多种机能的设备。\xfffe\xfffe点击Ｃ－ＧＥＡＲ右下角所示的\xfffe电源标志，将可以设置Ｃ－ＧＥＡＲ\xfffe电源的开关。
 Ｃ－ＧＥＡＲ的电源开启时，\xfffeＤＳ的无线将时常开启。\xfffe\xfffe在飞机或医院等\xfffe禁止使用无线通信的地方，\xfffe请务必关闭\xfffeＣ－ＧＥＡＲ的电源。\xfffe不关闭的话\xfffe可能会是违法行为。
 点击Ｃ－ＧＥＡＲ的右下角的\xfffe扳手标志的话，\xfffe将能够自定义Ｃ－ＧＥＡＲ设置。\xfffe可以点击边框改变颜色，\xfffe还可以拖动闪动的按键\xfffe移动至喜欢的位置。\xfffe\xfffe点击？标志的话，\xfffe将可以查看Ｃ－ＧＥＡＲ的帮助。
@@ -143,9 +143,9 @@
 要使用传递之力，\xfffe请在潜入连接出来之后，\xfffe点击位于Ｃ－ＧＥＡＲ中间的\xfffe“瞬缘通信记录”。\xfffe在下一个出现的画面中\xfffe请点击三角符号皆可。\xfffe\xfffe另外，使用传递之力时，\xfffe需要一定数量的传送宝珠。
 随着入口之树的成长，\xfffe等级逐渐提升，\xfffe将能够获得\xfffe新的传递之力。\xfffe\xfffe要想提高等级，\xfffe需要通过接受庆祝任务，\xfffe积累大量积分。
 使用传递之力时\xfffe需要一定的传递宝珠。\xfffe\xfffe传递宝珠可以通过完成\xfffe来自入口之树的庆祝任务\xfffe来获得。
-■背包的机能\xfffe背包可以根据所带物品的种类\xfffe进行自动分类。\xfffe\xfffe放置于重要物品口袋中的道具，\xfffe点击其名称旁边的方形符号\xfffe进行登录后，\xfffe即使不打开背包，\xfffe只需按Ｙ键就可以简单地使用。
+■包包的机能\xfffe包包可以根据所带物品的种类\xfffe进行自动分类。\xfffe\xfffe放置于重要物品口袋中的道具，\xfffe点击其名称旁边的方形符号\xfffe进行登录后，\xfffe即使不打开包包，\xfffe只需按Ｙ键就可以简单地使用。
 按ＳＴＡＲＴ键后，\xfffe在下画面将会出现绿色的标志。\xfffe选择排列方式，\xfffe便可更变道具的排列方式。\xfffe按ＳＥＬＥＣＴ键后，\xfffe将可以将口袋中的道具\xfffe由按顺序更变为自由排列。\xfffe按Ｌ／Ｒ键便可以\xfffe进行翻页操作。
-背包里设置的有\xfffe＂自由区域＂。\xfffe\xfffe首先选择口袋里的道具。\xfffe然后选择＂自由区域＂，\xfffe便可以将中意的道具\xfffe移动到自由区域中去。\xfffe
+包包里设置的有\xfffe＂自由区域＂。\xfffe\xfffe首先选择口袋里的道具。\xfffe然后选择＂自由区域＂，\xfffe便可以将中意的道具\xfffe移动到自由区域中去。\xfffe
 ■携带物品的种类\xfffe・道具\xfffe有某些道具\xfffe让宝可梦携带后\xfffe能力和技能的威力将会提升。\xfffe携带后有效果的道具上\xfffe有印记表示，　\xfffe让宝可梦携带上\xfffe试试效果吧。
 也有部分道具\xfffe在战斗中使用的话\xfffe会暂时提升能力和技能的威力。\xfffe\xfffe还有部分道具\xfffe在一定时间内效果会持续，\xfffe但切换宝可梦后效果会消失。
 用来收服宝可梦的精灵球\xfffe也放在道具袋里。\xfffe与宝可梦进化相关的道具\xfffe也是放在袋子里的。\xfffe\xfffe邮件是将喜欢的词语\xfffe组合起来形成的书信，\xfffe让宝可梦携带上交换后\xfffe能够传递到朋友那里。
@@ -194,7 +194,7 @@
 按住Ｘ键打开菜单的话，\xfffe下画面会显示方形的标记。\xfffe\xfffe点击这个标记\xfffe或者按Ｙ键，\xfffe将会附上红色的勾。\xfffe\xfffe附上勾的机能和道具\xfffe便被登录在了快捷键上。
 在重要物品口袋中\xfffe道具的旁边\xfffe也有方形的标记。\xfffe\xfffe选择条对准道具按Ｙ键\xfffe或点击勾选，\xfffe就可以将道具登录在快捷键上。
 快捷键上可以最多登录３４\xfffe个道具和机能。\xfffe向取消登录的时候，\xfffe请点击方形标记，\xfffe或者按Ｙ键，\xfffe取消勾选。\xfffe有两个以上登录项时，\xfffe按ＳＥＬＥＣＴ键\xfffe可以对快捷键项目进行排序。
-“奖章拉力赛”是根据\xfffe对玩家各种行动的评价\xfffe而赠送相应奖章的系统。\xfffe\xfffe入手的奖章将放在背包中的\xfffe“重要物品”中。\xfffe可以选择“奖章盒子”\xfffe进行确认。
+“奖章拉力赛”是根据\xfffe对玩家各种行动的评价\xfffe而赠送相应奖章的系统。\xfffe\xfffe入手的奖章将放在包包中的\xfffe“重要物品”中。\xfffe可以选择“奖章盒子”\xfffe进行确认。
 奖章是当满足条件时，\xfffe同出现在宝可梦中心的\xfffe“奖章老爹”进行对话，\xfffe便可以获得。
 请将精灵宝可梦的\xfffe＂钻石、珍珠、白金、心金、魂银＂\xfffe中任意一张卡带\xfffe插入另一台ＤＳ本体中，\xfffe打开电源进入ＤＳ菜单画面，\xfffe选择“ＤＳ下载游玩”，\xfffe并选择“宝可梦传送装置”。
 下载结束后，决定将\xfffe《精灵宝可梦黑２》或者\xfffe《精灵宝可梦白２》中\xfffe要带走的６只宝可梦，\xfffe用触摸笔将其拖动至\xfffe右边的框内。\xfffe\xfffe通过宝可梦传送装置带走的宝可梦\xfffe将不能再一次回到原软件中。
